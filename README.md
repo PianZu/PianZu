@@ -21,7 +21,7 @@
 ---
 
 ## 📊 GitHub Stats
-![maxdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxdev&show_icons=true&theme=radical)
+![PianZu's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxdev&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxdev&layout=compact&theme=radical)
 
 ---
