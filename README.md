@@ -2,8 +2,9 @@
 <h3 align="center">Software Developer from Germany</h3>
 
 <p align="center">
-  <img src="https://64.media.tumblr.com/796d869ffb2018a2d25c04281291f3ee/tumblr_ox9az2YZ4h1tcarlro1_500.gif" alt="Barbarian Vibes" />
+  <img src="https://media.giphy.com/media/RMwgs5kZqkRyhF24KK/giphy.gif" alt="Lofi Coding Vibes" width="600" />
 </p>
+
 
 - 🔭 Ich arbeite gerade an [FocusFlow](https://github.com/maxdev/focusflow)  
 - 🌱 Ich lerne aktuell **Spring Boot**, **React**, **MongoDB**
