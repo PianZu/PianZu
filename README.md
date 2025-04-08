@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, ich bin Christian</h1>
-<h3 align="center">Ein ein Softwareentwickler aus Deutschland</h3>
+<h3 align="center">Software Developer from Germany</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=maxdev&label=Profile%20views&color=0e75b6&style=flat" alt="maxdev" />
