@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer from Germany</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=maxdev&label=Profile%20views&color=0e75b6&style=flat" alt="maxdev" />
+  <img src="https://64.media.tumblr.com/796d869ffb2018a2d25c04281291f3ee/tumblr_ox9az2YZ4h1tcarlro1_500.gif" alt="Barbarian Vibes" />
 </p>
 
 - 🔭 Ich arbeite gerade an [FocusFlow](https://github.com/maxdev/focusflow)  
