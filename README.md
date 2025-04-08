@@ -31,8 +31,4 @@
 ![PianZu's GitHub stats](https://github-readme-stats.vercel.app/api?username=PianZu&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PianZu&layout=compact&theme=radical)
 
----
-
-## 🌍 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/deinname)](https://linkedin.com/in/deinname)
 
