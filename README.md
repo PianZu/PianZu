@@ -5,11 +5,13 @@
   <img src="https://media.giphy.com/media/RMwgs5kZqkRyhF24KK/giphy.gif" alt="Lofi Coding Vibes" width="600" />
 </p>
 
+## 👨‍💻 About Me
 
-- 🔭 Ich arbeite gerade an [FocusFlow](https://github.com/maxdev/focusflow)  
-- 🌱 Ich lerne aktuell **Spring Boot**, **React**, **MongoDB**
-- 🐱 Ich habe eine British Shorthair-Katze
-- 🧠 Fun fact: Ich bin introvertiert, aber code mit Energie
+- 🎓 I'm a Software Engineering & Media Informatics student
+- 💻 I love building full-stack web apps and backend services
+- 🧠 Always learning 
+- 🎧 Coding with J/KPop or old bangers 
+- 🐱 Cat owner 
 
 ---
 
