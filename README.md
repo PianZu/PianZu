@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, ich bin Christian</h1>
+<h3 align="center">Ein ein Softwareentwickler aus Deutschland</h3>
 
-<!--
-**PianZu/PianZu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=maxdev&label=Profile%20views&color=0e75b6&style=flat" alt="maxdev" />
+</p>
 
-Here are some ideas to get you started:
+- 🔭 Ich arbeite gerade an [FocusFlow](https://github.com/maxdev/focusflow)  
+- 🌱 Ich lerne aktuell **Spring Boot**, **React**, **MongoDB**
+- 🐱 Ich habe eine British Shorthair-Katze
+- 🧠 Fun fact: Ich bin introvertiert, aber code mit Energie
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+---
+
+## 📊 GitHub Stats
+![maxdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxdev&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxdev&layout=compact&theme=radical)
+
+---
+
+## 🌍 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/deinname)](https://linkedin.com/in/deinname)
+
